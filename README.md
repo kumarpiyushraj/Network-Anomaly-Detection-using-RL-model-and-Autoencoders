@@ -164,7 +164,7 @@ Latent Vector (32)
 
 ---
 
-# 📈 Training Behavior (From Notebook Outputs)
+# 📈 Training Behavior
 
 ### **Autoencoder Training**
 
@@ -247,3 +247,6 @@ Made with ❤️ by **[kumarpiyushraj](https://github.com/kumarpiyushraj)**.
 If this repository helps your research, please consider starring the project!
 
 ---
+<p align="center">
+  <sub>© 2024 Kumar Piyush Raj. All rights reserved.</sub>
+</p>
