@@ -248,5 +248,5 @@ If this repository helps your research, please consider starring the project!
 
 ---
 <p align="center">
-  <sub>© 2024 Kumar Piyush Raj. All rights reserved.</sub>
+  <sub>© 2025 Kumar Piyush Raj. All rights reserved.</sub>
 </p>
