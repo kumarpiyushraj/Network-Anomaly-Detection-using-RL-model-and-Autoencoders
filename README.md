@@ -33,7 +33,7 @@ The notebook trains three autoencoder architectures:
 * Final validation loss converged to **~0.67**
 * Strongest reconstruction performance among the three models
 
-#### **✔ Deep Hybrid Autoencoder (3rd AE block)**
+#### **✔ Denoising Autoencoder (DAE)**
 
 * Multiple dense layers + dropout
 * Captures non-linear traffic patterns
